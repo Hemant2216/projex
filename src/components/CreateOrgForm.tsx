@@ -33,7 +33,7 @@ const CreateOrgForm = () => {
   };
   return (
     <div className="font-medium flex items-center mb-1 bg-blue-500">
-      <span>Workspaces</span>
+      <span className="text-white">Workspaces</span>
 
       <Popover>
         <PopoverTrigger asChild>
