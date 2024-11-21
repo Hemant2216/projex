@@ -1,0 +1,8 @@
+{
+  "/not-found": "app/not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(trelloboards)/page": "app/(trelloboards)/page.js",
+  "/(trelloboards)/organizations/page": "app/(trelloboards)/organizations/page.js"
+}

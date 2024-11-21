@@ -1,0 +1,38 @@
+{
+  "node": {
+    "1da031f12135a0e2573ca12dc9318a80a787a4ce": {
+      "workers": {
+        "app/(trelloboards)/organizations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctrello-clone-main%5C%5Csrc%5C%5Cservices%5C%5Corganization.ts%22%2C%5B%22removeOrgMember%22%2C%22updateOrgMember%22%2C%22getWithoutOrgMembers%22%2C%22createOgranization%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(trelloboards)/organizations/page": "action-browser"
+      }
+    },
+    "26b82fe14c9ceaf0545a729d9caca8dc66fd1990": {
+      "workers": {
+        "app/(trelloboards)/organizations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctrello-clone-main%5C%5Csrc%5C%5Cservices%5C%5Corganization.ts%22%2C%5B%22removeOrgMember%22%2C%22updateOrgMember%22%2C%22getWithoutOrgMembers%22%2C%22createOgranization%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(trelloboards)/organizations/page": "action-browser"
+      }
+    },
+    "5efe49114cd77f333d912d1fc99334ce8d529a2a": {
+      "workers": {
+        "app/(trelloboards)/organizations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctrello-clone-main%5C%5Csrc%5C%5Cservices%5C%5Corganization.ts%22%2C%5B%22removeOrgMember%22%2C%22updateOrgMember%22%2C%22getWithoutOrgMembers%22%2C%22createOgranization%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(trelloboards)/organizations/page": "action-browser"
+      }
+    },
+    "70e4ad559d6ddf8b16a683b789e29d9982315dcb": {
+      "workers": {
+        "app/(trelloboards)/organizations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctrello-clone-main%5C%5Csrc%5C%5Cservices%5C%5Corganization.ts%22%2C%5B%22removeOrgMember%22%2C%22updateOrgMember%22%2C%22getWithoutOrgMembers%22%2C%22createOgranization%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(trelloboards)/organizations/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "e8N3NT7SV6M6hNPgNHwATXF1sBO/XueuIerCmcs6YGs="
+}
