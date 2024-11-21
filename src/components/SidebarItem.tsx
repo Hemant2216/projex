@@ -45,7 +45,7 @@ const SidebarItem = ({ org }: { org: Organization }) => {
               className="rounded-sm object-cover"
             />
           </div>
-          <span className="font-medium text-sm">{org?.title}</span>
+          <span className="font-medium text-sm text-white">{org?.title}</span>
         </div>
       </AccordionTrigger>
       <AccordionContent className="">
