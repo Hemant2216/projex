@@ -2,7 +2,7 @@ import Sidebar from "@/components/Sidebar";
 
 const OrganizationLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <main className="pt-20 md:pt-24 px-4 max-w-6xl 2xl:max-w-screen-xl mx-auto">
+    <main className="pt-4 px-2">
       <div className="flex gap-x-7 bg-blue-900 w-64">
         <div className="w-64 shrink-0 hidden md:block">
           <Sidebar />
