@@ -17,13 +17,13 @@ const Navbar = () => {
             href="/login"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Log in
+            
           </Link>
         ) : (
           <div className="flex gap-4">
             <Link
               href="/organizations"
-              className="text-sm font-semibold leading-6 text-gray-900"
+              className="text-sm font-semibold leading-6 text-gray-900 text-white"
             >
               Organizations
             </Link>
@@ -34,7 +34,7 @@ const Navbar = () => {
               }}
               className="font-semibold text-sm cursor-pointer"
             >
-              Logout
+              
             </div>
           </div>
         )}
